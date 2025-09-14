@@ -1,8 +1,8 @@
 # URLCut - Сервис сокращения URL и загрузки файлов
 
 Сервис для сокращения длинных URL-адресов и удобной загрузки файлов на Яндекс.Диск с генерацией коротких ссылок.
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
-[![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)](https://flask.palletsprojects.com/)
+- [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
+- [![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)](https://flask.palletsprojects.com/)
 
 ## Возможности
 
